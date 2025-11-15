@@ -10,6 +10,8 @@ Stupidly Simple GUI for Scrcpy
 - No Python or ADB install required — just run `scrGUI.exe`
 - Record Option, with native FPS
 
+*!!NOTE: For some reason Windows Defender has detected my program as malicious, i have no idea for this reason as im not that good in programming, however if you know what the issue is please let me know so i can fix it, thank you. (used pyinstaller to compile the .py to .exe)!!*
+
 ## Key Features
 Profiles
 - Low: 640p / 2 Mbps
