@@ -1,10 +1,11 @@
-                 _____ _    _ _____ 
-                / ____| |  | |_   _|
-  ___  ___ _ __| |  __| |  | | | |  
- / __|/ __| '__| | |_ | |  | | | |  
- \__ \ (__| |  | |__| | |__| |_| |_ 
- |___/\___|_|   \_____|\____/|_____|
-                                    
+                       ___________ 
+  ______ ___________  /  _____/|    |   \   |
+ /  ___// ___\_  __ \/   \  ___|    |   /   |
+ \___ \\  \___|  | \/\    \_\  \    |  /|   |
+/____  >\___  >__|    \______  /______/ |___|
+     \/     \/               \/              
+                                                          
+                                                          
 Stupidly Simple GUI for Scrcpy
 
 **scrGUI** is a lightweight, launcher for [scrcpy](https://github.com/Genymobile/scrcpy), designed for creators, testers, and tinkerers who want instant Android mirroring without the command line.
