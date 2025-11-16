@@ -46,6 +46,16 @@ Combos
 - Crop + Record: Focused app capture
 - Touches + Record: Tutorial/demo videos
 
+## Tutorial
+1. First, make sure that you have the scrGUI.exe on your system (can be any directory)
+2. Go on the device you want to mirror, head into settings and go to your phones info. Look for the build number/settings and click it as much times as you can, then you will have developer options enabled.
+3. Once done, go back and into developer options (you might need to look around in settings since some phones hide it), once your in developer options scroll down until you see a option called USB Debugging. Enable it and leave the device.
+4. Head back to your computer and double click the .exe file you downloaded. will take around 5seconds but once opened, choose any quality profile you want (use medium settings as a test for now.)
+5. Now get your USB cable and connect the device you want to mirror to your laptop, then allow data transfer if needed. (if you get a USB Debugging request already, accept it)
+6. If everything is correct, click on launch scrcpy, your phone will get a connection request, press allow. if it doesnt mirror your screen, click on launch scrcpy again.
+7. If all steps were followed correctly, well done, scrGUI will mirror your screen and you can enjoy whatever you were doing. i recommend to close scrGUI, reopen it and click feature info. (very good information)
+
+## Other
 
 The .exe file is a portable package, so no need to install the app. 
 I create this since most GUI based apps didnt have the features i wanted, hence i had to use the command line (which was really annoying after a while)
