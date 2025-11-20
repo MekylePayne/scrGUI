@@ -5,6 +5,8 @@ Stupidly Simple GUI for Scrcpy
 
 **scrGUI** is a lightweight, launcher for [scrcpy](https://github.com/Genymobile/scrcpy), designed for creators, testers, and tinkerers who want instant Android mirroring without the command line.
 
+(Linux deployment in progress)
+
 - Click-to-launch scrcpy with custom settings
 - Save profiles for different devices or workflows
 - No Python or ADB install required — just run `scrGUI.exe`
